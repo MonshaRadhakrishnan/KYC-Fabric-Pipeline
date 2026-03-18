@@ -6,7 +6,7 @@
 Automated KYC document ingestion and validation pipeline built on Microsoft Fabric,  
 inspired by RAKBANK's compliance processing use case.  
 
-**Outcome:** Processes 20+ KYC documents per run with automated expiry flagging,  
+**Outcome:** Processes scalable KYC document batches (simulated 20+ per run) with automated expiry flagging,  
 confidence scoring, and SQL-queryable Delta tables.  
 
 ## Architecture  
