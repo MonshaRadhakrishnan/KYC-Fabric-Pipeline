@@ -10,7 +10,8 @@ inspired by RAKBANK's compliance processing use case.
 confidence scoring, and SQL-queryable Delta tables.  
 
 ## Architecture  
-[architecture diagram image here]  
+ <img width="1458" height="644" alt="architecture" src="https://github.com/user-attachments/assets/e25b4f9c-3447-4d18-9279-99d47c69d843" />
+
 
 ## Tech stack  
 - Microsoft Fabric (Lakehouse, Data Pipeline, SQL endpoint)  
