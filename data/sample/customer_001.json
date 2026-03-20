@@ -1,0 +1,18 @@
+{
+  "customer_id": "UAE-2024-001",
+  "full_name": "Ahmed Al Mansoori",
+  "document_type": "Emirates ID",
+  "document_number": "784-1985-8234567-1",
+  "date_of_birth": "1985-03-14",
+  "nationality": "AE",
+  "issue_date": "2023-11-16",
+  "expiry_date": "2026-11-15",
+  "address": "Villa 14, Al Barsha 1, Dubai",
+  "employer": "RAKBANK",
+  "upload_timestamp": "2024-11-15T07:00:00Z",
+  "source_system": "mobile_app",
+  "extraction_confidence": 0.95,
+  "kyc_risk_band": "LOW",
+  "aml_screening_status": "CLEAR",
+  "last_review_date": "2024-05-19"
+}

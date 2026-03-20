@@ -1,0 +1,18 @@
+{
+  "customer_id": "UAE-2024-002",
+  "full_name": "Fatima Al Rashidi",
+  "document_type": "Emirates ID",
+  "document_number": "784-1990-8234704-2",
+  "date_of_birth": "1990-07-22",
+  "nationality": "AE",
+  "issue_date": "2023-05-10",
+  "expiry_date": "2026-05-09",
+  "address": "Apt 802, Marina Diamond 3, Dubai Marina",
+  "employer": "Emirates NBD",
+  "upload_timestamp": "2024-11-15T11:17:07Z",
+  "source_system": "branch_scan",
+  "extraction_confidence": 0.9,
+  "kyc_risk_band": "LOW",
+  "aml_screening_status": "CLEAR",
+  "last_review_date": "2024-04-19"
+}

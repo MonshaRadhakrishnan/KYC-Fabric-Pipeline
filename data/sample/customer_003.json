@@ -1,0 +1,18 @@
+{
+  "customer_id": "UAE-2024-003",
+  "full_name": "Mohammed Al Zaabi",
+  "document_type": "Passport",
+  "document_number": "CF8000426",
+  "date_of_birth": "1978-11-05",
+  "nationality": "AE",
+  "issue_date": "2022-11-16",
+  "expiry_date": "2025-11-15",
+  "address": "Villa 7, Khalidiyah, Abu Dhabi",
+  "employer": "ADCB",
+  "upload_timestamp": "2024-11-15T15:34:14Z",
+  "source_system": "web_portal",
+  "extraction_confidence": 0.99,
+  "kyc_risk_band": "MEDIUM",
+  "aml_screening_status": "CLEAR",
+  "last_review_date": "2024-03-20"
+}
