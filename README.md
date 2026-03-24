@@ -24,3 +24,4 @@ confidence scoring, and SQL-queryable Delta tables.
 3. Writes to Delta table with full ACID compliance  
 4. Exposes SQL endpoint for KYC ops queries  
 
+## Azure Document Intelligence API wired into Spark Notebook - Real OCR extraction
