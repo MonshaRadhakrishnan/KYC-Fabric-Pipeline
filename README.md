@@ -9,10 +9,6 @@ inspired by RAKBANK's compliance processing use case.
 **Outcome:** Processes scalable KYC document batches (simulated 20+ per run) with automated expiry flagging,  
 confidence scoring, and SQL-queryable Delta tables.  
 
-## Architecture  
- <img width="1458" height="644" alt="architecture" src="https://github.com/user-attachments/assets/e25b4f9c-3447-4d18-9279-99d47c69d843" />
-
-
 ## Tech Stack
 - Microsoft Fabric (Lakehouse, Data Pipeline, SQL Endpoint, Power BI)
 - Azure Document Intelligence (prebuilt-idDocument model)
@@ -30,6 +26,11 @@ confidence scoring, and SQL-queryable Delta tables.
 ## KYC Operations Dashboard
 <img width="1200" height="623" alt="image" src="https://github.com/user-attachments/assets/938c04c9-d258-40b0-8de6-5b26a161a0dc" />
 
+
+---
+
+## Architecture  
+ <img width="1458" height="644" alt="architecture" src="https://github.com/user-attachments/assets/e25b4f9c-3447-4d18-9279-99d47c69d843" />
 
 ---
 
