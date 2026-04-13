@@ -58,3 +58,16 @@ Processes 20+ KYC documents per pipeline run with:
 - AML flag propagation
 
 Significantly reduces manual review effort for compliance teams.
+
+
+
+Data Activator
+
+<img width="1330" height="628" alt="image" src="https://github.com/user-attachments/assets/1df462f7-6526-4b21-8b71-9daf896ab586" />
+
+
+email trigger
+
+<img width="986" height="581" alt="image" src="https://github.com/user-attachments/assets/fc630ff0-1656-4eb2-9ce0-e4d8bb29827b" />
+
+
